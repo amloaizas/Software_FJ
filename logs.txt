@@ -1,0 +1,97 @@
+2026-05-24 16:10:52.249309 - INFO - Cliente válido registrado correctamente
+2026-05-24 16:10:52.250435 - ERROR - El nombre del cliente no puede estar vacío
+2026-05-24 16:10:52.251842 - ERROR - El correo electrónico es inválido
+2026-05-24 16:10:52.253405 - INFO - Servicio de sala creado correctamente
+2026-05-24 16:10:52.254882 - ERROR - El precio por día debe ser válido
+2026-05-24 16:10:52.257050 - INFO - Asesoría creada correctamente
+2026-05-24 16:10:52.259098 - INFO - Reserva procesada correctamente Total: 287500.0
+2026-05-24 16:10:52.260118 - INFO - Finalizó el proceso de reserva
+2026-05-24 16:10:52.261133 - INFO - Reserva confirmada para Carlos Ramirez
+2026-05-24 16:10:52.262458 - ERROR - La duración debe ser mayor que cero
+2026-05-24 16:10:52.264149 - ERROR - Las horas deben ser mayores a cero
+2026-05-24 16:10:52.265395 - INFO - Reserva cancelada para Carlos Ramirez
+2026-05-24 16:10:52.266707 - INFO - Cálculo exitoso usando ELSE
+2026-05-24 16:12:30.227063 - INFO - Cliente válido registrado correctamente
+2026-05-24 16:12:30.228063 - ERROR - El nombre del cliente no puede estar vacío
+2026-05-24 16:12:30.229307 - ERROR - El correo electrónico es inválido
+2026-05-24 16:12:30.230682 - INFO - Servicio de sala creado correctamente
+2026-05-24 16:12:30.232020 - ERROR - El precio por día debe ser válido
+2026-05-24 16:12:30.234909 - INFO - Asesoría creada correctamente
+2026-05-24 16:12:30.237148 - INFO - Reserva procesada correctamente Total: 287500.0
+2026-05-24 16:12:30.238534 - INFO - Finalizó el proceso de reserva
+2026-05-24 16:12:30.239231 - INFO - Reserva confirmada para Carlos Ramirez
+2026-05-24 16:12:35.262445 - INFO - Cliente válido registrado correctamente
+2026-05-24 16:12:35.263794 - ERROR - El nombre del cliente no puede estar vacío
+2026-05-24 16:12:35.265226 - ERROR - El correo electrónico es inválido
+2026-05-24 16:12:35.266905 - INFO - Servicio de sala creado correctamente
+2026-05-24 16:12:35.268418 - ERROR - El precio por día debe ser válido
+2026-05-24 16:12:35.270171 - INFO - Asesoría creada correctamente
+2026-05-24 16:12:35.271499 - INFO - Reserva procesada correctamente Total: 287500.0
+2026-05-24 16:12:35.272617 - INFO - Finalizó el proceso de reserva
+2026-05-24 16:12:35.273861 - INFO - Reserva confirmada para Carlos Ramirez
+2026-05-24 16:12:36.881315 - INFO - Cliente válido registrado correctamente
+2026-05-24 16:12:36.882803 - ERROR - El nombre del cliente no puede estar vacío
+2026-05-24 16:12:36.884272 - ERROR - El correo electrónico es inválido
+2026-05-24 16:12:36.885990 - INFO - Servicio de sala creado correctamente
+2026-05-24 16:12:36.889053 - ERROR - El precio por día debe ser válido
+2026-05-24 16:12:36.891464 - INFO - Asesoría creada correctamente
+2026-05-24 16:12:36.893374 - INFO - Reserva procesada correctamente Total: 287500.0
+2026-05-24 16:12:36.894350 - INFO - Finalizó el proceso de reserva
+2026-05-24 16:12:36.895394 - INFO - Reserva confirmada para Carlos Ramirez
+2026-05-24 16:12:41.453507 - INFO - Cliente válido registrado correctamente
+2026-05-24 16:12:41.455361 - INFO - Segundo cliente válido registrado correctamente
+2026-05-24 16:12:41.457067 - ERROR - El nombre del cliente no puede estar vacío
+2026-05-24 16:12:41.458820 - ERROR - El teléfono solo debe contener números
+2026-05-24 16:12:41.460717 - ERROR - El correo electrónico es inválido
+2026-05-24 16:12:41.462550 - ERROR - El correo electrónico es inválido
+2026-05-24 16:12:41.464161 - INFO - Servicio de sala creado correctamente
+2026-05-24 16:12:41.465584 - INFO - Segunda sala creada correctamente
+2026-05-24 16:12:41.467006 - ERROR - El precio por día debe ser válido
+2026-05-24 16:12:41.468669 - ERROR - El precio por día debe ser válido
+2026-05-24 16:12:41.470377 - INFO - Asesoría creada correctamente
+2026-05-24 16:12:41.471788 - INFO - Segunda asesoría creada correctamente
+2026-05-24 16:12:41.472939 - INFO - Reserva procesada correctamente Total: 287500.0
+2026-05-24 16:12:41.473666 - INFO - Finalizó el proceso de reserva
+2026-05-24 16:12:41.474354 - INFO - Reserva confirmada para Carlos Ramirez
+2026-05-24 16:12:41.475730 - ERROR - La duración debe ser mayor que cero
+2026-05-24 16:12:41.477392 - ERROR - Las horas deben ser mayores a cero
+2026-05-24 16:12:41.479189 - INFO - Reserva cancelada para Carlos Ramirez
+2026-05-24 16:12:41.480976 - INFO - Cálculo exitoso usando ELSE
+2026-05-24 16:12:46.340190 - INFO - Cliente válido registrado correctamente
+2026-05-24 16:12:46.341743 - INFO - Segundo cliente válido registrado correctamente
+2026-05-24 16:12:46.343001 - ERROR - El nombre del cliente no puede estar vacío
+2026-05-24 16:12:46.344292 - ERROR - El teléfono solo debe contener números
+2026-05-24 16:12:46.345984 - ERROR - El correo electrónico es inválido
+2026-05-24 16:12:46.348599 - ERROR - El correo electrónico es inválido
+2026-05-24 16:12:46.350276 - INFO - Servicio de sala creado correctamente
+2026-05-24 16:12:46.351786 - INFO - Segunda sala creada correctamente
+2026-05-24 16:12:46.353388 - ERROR - El precio por día debe ser válido
+2026-05-24 16:12:46.354981 - ERROR - El precio por día debe ser válido
+2026-05-24 16:12:46.357712 - INFO - Asesoría creada correctamente
+2026-05-24 16:12:46.359307 - INFO - Segunda asesoría creada correctamente
+2026-05-24 16:12:46.360679 - INFO - Reserva procesada correctamente Total: 287500.0
+2026-05-24 16:12:46.361353 - INFO - Finalizó el proceso de reserva
+2026-05-24 16:12:46.362914 - INFO - Reserva confirmada para Carlos Ramirez
+2026-05-24 16:12:46.364577 - ERROR - La duración debe ser mayor que cero
+2026-05-24 16:12:46.366399 - ERROR - Las horas deben ser mayores a cero
+2026-05-24 16:12:46.367856 - INFO - Reserva cancelada para Carlos Ramirez
+2026-05-24 16:12:46.370683 - INFO - Cálculo exitoso usando ELSE
+2026-05-24 16:13:14.296604 - INFO - Cliente válido registrado correctamente
+2026-05-24 16:13:14.298803 - INFO - Segundo cliente válido registrado correctamente
+2026-05-24 16:13:14.301247 - ERROR - El nombre del cliente no puede estar vacío
+2026-05-24 16:13:14.302874 - ERROR - El teléfono solo debe contener números
+2026-05-24 16:13:14.304004 - ERROR - El correo electrónico es inválido
+2026-05-24 16:13:14.305224 - ERROR - El correo electrónico es inválido
+2026-05-24 16:13:14.306646 - INFO - Servicio de sala creado correctamente
+2026-05-24 16:13:14.308301 - INFO - Segunda sala creada correctamente
+2026-05-24 16:13:14.309495 - ERROR - El precio por día debe ser válido
+2026-05-24 16:13:14.311049 - ERROR - El precio por día debe ser válido
+2026-05-24 16:13:14.312282 - INFO - Asesoría creada correctamente
+2026-05-24 16:13:14.313759 - INFO - Segunda asesoría creada correctamente
+2026-05-24 16:13:14.315273 - INFO - Reserva procesada correctamente Total: 287500.0
+2026-05-24 16:13:14.316076 - INFO - Finalizó el proceso de reserva
+2026-05-24 16:13:14.316987 - INFO - Reserva confirmada para Carlos Ramirez
+2026-05-24 16:13:14.318587 - ERROR - La duración debe ser mayor que cero
+2026-05-24 16:13:14.320003 - ERROR - Las horas deben ser mayores a cero
+2026-05-24 16:13:14.321058 - INFO - Reserva cancelada para Carlos Ramirez
+2026-05-24 16:13:14.322561 - INFO - Cálculo exitoso usando ELSE
